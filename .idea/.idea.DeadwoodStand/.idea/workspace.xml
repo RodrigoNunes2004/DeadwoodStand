@@ -13,7 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28c737dc-1640-429f-a38e-c17f686c608a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DeadwoodStand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DeadwoodStand/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/DeadwoodStand/Character/PlayerCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DeadwoodStand/Character/PlayerCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/DeadwoodStand/Character/PlayerCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DeadwoodStand/Character/PlayerCharacter.h" afterDir="false" />
     </list>
@@ -161,7 +160,7 @@
       <workItem from="1765934291812" duration="14826000" />
       <workItem from="1766009071909" duration="10748000" />
       <workItem from="1766128878164" duration="7040000" />
-      <workItem from="1766188302400" duration="4431000" />
+      <workItem from="1766188302400" duration="14540000" />
     </task>
     <servers />
   </component>
